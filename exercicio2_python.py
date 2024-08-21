@@ -26,5 +26,5 @@ def testar_subdominios(url_base):
 
 
 # Exemplo de chamada da função
-testar_subdominios('example.com')
+testar_subdominios('fiap.com.br')
 
